@@ -1,5 +1,18 @@
-### Hi there 👋
+## Hi, I'm Adrian 👋
 
+*I am a junior software developer, I have a degree in web application development in Spain 🇪🇸. I'm still starting my career as a developer and I'm eager to learn as much as possible 📖. I love to learn new technologies 👨🏻‍💻, I am currently improving my knowledge about cloud development ☁️ as well as improving my skills in NodeJS and ReactJs.*
+
+## Technology Satack 💻
+
+ - NodeJs
+ - React
+ - MongoDB
+ - HTML5
+ - CSS3
+ - Git
+ - Aws
+ - Docker
+ - Java
 <!--
 **adrii0113/adrii0113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
